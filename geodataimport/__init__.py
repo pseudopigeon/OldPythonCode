@@ -7,7 +7,6 @@ from .yahoo.screener import Screener
 from .yahoo.ticker import Ticker
 
 # Directory to export values to
-# NEO4J_IMPORT = "/home/dundy/Desktop/myNewApp/data/testdata"
 GEONAMES_DUMP = "https://download.geonames.org/export/dump/"
 GEONAMES_ZIP = "https://download.geonames.org/export/zip/"
 WB_API_URL = "https://api.worldbank.org/v2"
