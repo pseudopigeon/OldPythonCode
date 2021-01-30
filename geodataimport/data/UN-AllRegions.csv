@@ -1,0 +1,250 @@
+Global Code,Global Name,UNRegionCode,UNRegion,UNSubRegionCode,UNSubRegion,UNIntermediateRegionCode,UNIntermediateRegion,Country or Area,M49 Code,ISO-alpha2 Code,iso3,Least Developed Countries (LDC),Land Locked Developing Countries (LLDC),Small Island Developing States (SIDS),Developed / Developing Countries
+1,World,m49:2.0,Africa,m49:15.0,Northern Africa,m49:,,Algeria,12,DZ,DZA,,,,Developing
+1,World,m49:2.0,Africa,m49:15.0,Northern Africa,m49:,,Egypt,818,EG,EGY,,,,Developing
+1,World,m49:2.0,Africa,m49:15.0,Northern Africa,m49:,,Libya,434,LY,LBY,,,,Developing
+1,World,m49:2.0,Africa,m49:15.0,Northern Africa,m49:,,Morocco,504,MA,MAR,,,,Developing
+1,World,m49:2.0,Africa,m49:15.0,Northern Africa,m49:,,Sudan,729,SD,SDN,x,,,Developing
+1,World,m49:2.0,Africa,m49:15.0,Northern Africa,m49:,,Tunisia,788,TN,TUN,,,,Developing
+1,World,m49:2.0,Africa,m49:15.0,Northern Africa,m49:,,Western Sahara,732,EH,ESH,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,British Indian Ocean Territory,86,IO,IOT,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Burundi,108,BI,BDI,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Comoros,174,KM,COM,x,,x,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Djibouti,262,DJ,DJI,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Eritrea,232,ER,ERI,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Ethiopia,231,ET,ETH,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,French Southern Territories,260,TF,ATF,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Kenya,404,KE,KEN,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Madagascar,450,MG,MDG,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Malawi,454,MW,MWI,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Mauritius,480,MU,MUS,,,x,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Mayotte,175,YT,MYT,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Mozambique,508,MZ,MOZ,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Réunion,638,RE,REU,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Rwanda,646,RW,RWA,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Seychelles,690,SC,SYC,,,x,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Somalia,706,SO,SOM,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,South Sudan,728,SS,SSD,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Uganda,800,UG,UGA,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,United Republic of Tanzania,834,TZ,TZA,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Zambia,894,ZM,ZMB,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:14.0,Eastern Africa,Zimbabwe,716,ZW,ZWE,,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Angola,24,AO,AGO,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Cameroon,120,CM,CMR,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Central African Republic,140,CF,CAF,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Chad,148,TD,TCD,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Congo,178,CG,COG,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Democratic Republic of the Congo,180,CD,COD,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Equatorial Guinea,226,GQ,GNQ,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Gabon,266,GA,GAB,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:17.0,Middle Africa,Sao Tome and Principe,678,ST,STP,x,,x,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:18.0,Southern Africa,Botswana,72,BW,BWA,,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:18.0,Southern Africa,Eswatini,748,SZ,SWZ,,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:18.0,Southern Africa,Lesotho,426,LS,LSO,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:18.0,Southern Africa,Namibia,516,,NAM,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:18.0,Southern Africa,South Africa,710,ZA,ZAF,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Benin,204,BJ,BEN,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Burkina Faso,854,BF,BFA,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Cabo Verde,132,CV,CPV,,,x,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Côte d’Ivoire,384,CI,CIV,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Gambia,270,GM,GMB,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Ghana,288,GH,GHA,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Guinea,324,GN,GIN,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Guinea-Bissau,624,GW,GNB,x,,x,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Liberia,430,LR,LBR,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Mali,466,ML,MLI,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Mauritania,478,MR,MRT,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Niger,562,NE,NER,x,x,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Nigeria,566,NG,NGA,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Saint Helena,654,SH,SHN,,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Senegal,686,SN,SEN,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Sierra Leone,694,SL,SLE,x,,,Developing
+1,World,m49:2.0,Africa,m49:202.0,Sub-Saharan Africa,m49:11.0,Western Africa,Togo,768,TG,TGO,x,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Anguilla,660,AI,AIA,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Antigua and Barbuda,28,AG,ATG,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Aruba,533,AW,ABW,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Bahamas,44,BS,BHS,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Barbados,52,BB,BRB,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,"Bonaire, Sint Eustatius and Saba",535,BQ,BES,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,British Virgin Islands,92,VG,VGB,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Cayman Islands,136,KY,CYM,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Cuba,192,CU,CUB,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Curaçao,531,CW,CUW,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Dominica,212,DM,DMA,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Dominican Republic,214,DO,DOM,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Grenada,308,GD,GRD,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Guadeloupe,312,GP,GLP,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Haiti,332,HT,HTI,x,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Jamaica,388,JM,JAM,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Martinique,474,MQ,MTQ,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Montserrat,500,MS,MSR,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Puerto Rico,630,PR,PRI,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Saint Barthélemy,652,BL,BLM,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Saint Kitts and Nevis,659,KN,KNA,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Saint Lucia,662,LC,LCA,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Saint Martin (French Part),663,MF,MAF,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Saint Vincent and the Grenadines,670,VC,VCT,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Sint Maarten (Dutch part),534,SX,SXM,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Trinidad and Tobago,780,TT,TTO,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,Turks and Caicos Islands,796,TC,TCA,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:29.0,Caribbean,United States Virgin Islands,850,VI,VIR,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,Belize,84,BZ,BLZ,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,Costa Rica,188,CR,CRI,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,El Salvador,222,SV,SLV,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,Guatemala,320,GT,GTM,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,Honduras,340,HN,HND,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,Mexico,484,MX,MEX,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,Nicaragua,558,NI,NIC,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:13.0,Central America,Panama,591,PA,PAN,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Argentina,32,AR,ARG,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Bolivia (Plurinational State of),68,BO,BOL,,x,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Bouvet Island,74,BV,BVT,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Brazil,76,BR,BRA,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Chile,152,CL,CHL,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Colombia,170,CO,COL,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Ecuador,218,EC,ECU,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Falkland Islands (Malvinas),238,FK,FLK,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,French Guiana,254,GF,GUF,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Guyana,328,GY,GUY,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Paraguay,600,PY,PRY,,x,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Peru,604,PE,PER,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,South Georgia and the South Sandwich Islands,239,GS,SGS,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Suriname,740,SR,SUR,,,x,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Uruguay,858,UY,URY,,,,Developing
+1,World,m49:19.0,Americas,m49:419.0,Latin America and the Caribbean,m49:5.0,South America,Venezuela (Bolivarian Republic of),862,VE,VEN,,,,Developing
+1,World,m49:19.0,Americas,m49:21.0,Northern America,m49:,,Bermuda,60,BM,BMU,,,,Developed
+1,World,m49:19.0,Americas,m49:21.0,Northern America,m49:,,Canada,124,CA,CAN,,,,Developed
+1,World,m49:19.0,Americas,m49:21.0,Northern America,m49:,,Greenland,304,GL,GRL,,,,Developed
+1,World,m49:19.0,Americas,m49:21.0,Northern America,m49:,,Saint Pierre and Miquelon,666,PM,SPM,,,,Developed
+1,World,m49:19.0,Americas,m49:21.0,Northern America,m49:,,United States of America,840,US,USA,,,,Developed
+1,World,m49:,,m49:,,m49:,,Antarctica,10,AQ,ATA,,,,
+1,World,m49:142.0,Asia,m49:143.0,Central Asia,m49:,,Kazakhstan,398,KZ,KAZ,,x,,Developing
+1,World,m49:142.0,Asia,m49:143.0,Central Asia,m49:,,Kyrgyzstan,417,KG,KGZ,,x,,Developing
+1,World,m49:142.0,Asia,m49:143.0,Central Asia,m49:,,Tajikistan,762,TJ,TJK,,x,,Developing
+1,World,m49:142.0,Asia,m49:143.0,Central Asia,m49:,,Turkmenistan,795,TM,TKM,,x,,Developing
+1,World,m49:142.0,Asia,m49:143.0,Central Asia,m49:,,Uzbekistan,860,UZ,UZB,,x,,Developing
+1,World,m49:142.0,Asia,m49:30.0,Eastern Asia,m49:,,China,156,CN,CHN,,,,Developing
+1,World,m49:142.0,Asia,m49:30.0,Eastern Asia,m49:,,"China, Hong Kong Special Administrative Region",344,HK,HKG,,,,Developing
+1,World,m49:142.0,Asia,m49:30.0,Eastern Asia,m49:,,"China, Macao Special Administrative Region",446,MO,MAC,,,,Developing
+1,World,m49:142.0,Asia,m49:30.0,Eastern Asia,m49:,,Democratic People's Republic of Korea,408,KP,PRK,,,,Developing
+1,World,m49:142.0,Asia,m49:30.0,Eastern Asia,m49:,,Japan,392,JP,JPN,,,,Developed
+1,World,m49:142.0,Asia,m49:30.0,Eastern Asia,m49:,,Mongolia,496,MN,MNG,,x,,Developing
+1,World,m49:142.0,Asia,m49:30.0,Eastern Asia,m49:,,Republic of Korea,410,KR,KOR,,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Brunei Darussalam,96,BN,BRN,,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Cambodia,116,KH,KHM,x,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Indonesia,360,ID,IDN,,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Lao People's Democratic Republic,418,LA,LAO,x,x,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Malaysia,458,MY,MYS,,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Myanmar,104,MM,MMR,x,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Philippines,608,PH,PHL,,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Singapore,702,SG,SGP,,,x,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Thailand,764,TH,THA,,,,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Timor-Leste,626,TL,TLS,x,,x,Developing
+1,World,m49:142.0,Asia,m49:35.0,South-eastern Asia,m49:,,Viet Nam,704,VN,VNM,,,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Afghanistan,4,AF,AFG,x,x,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Bangladesh,50,BD,BGD,x,,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Bhutan,64,BT,BTN,x,x,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,India,356,IN,IND,,,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Iran (Islamic Republic of),364,IR,IRN,,,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Maldives,462,MV,MDV,,,x,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Nepal,524,NP,NPL,x,x,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Pakistan,586,PK,PAK,,,,Developing
+1,World,m49:142.0,Asia,m49:34.0,Southern Asia,m49:,,Sri Lanka,144,LK,LKA,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Armenia,51,AM,ARM,,x,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Azerbaijan,31,AZ,AZE,,x,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Bahrain,48,BH,BHR,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Cyprus,196,CY,CYP,,,,Developed
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Georgia,268,GE,GEO,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Iraq,368,IQ,IRQ,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Israel,376,IL,ISR,,,,Developed
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Jordan,400,JO,JOR,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Kuwait,414,KW,KWT,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Lebanon,422,LB,LBN,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Oman,512,OM,OMN,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Qatar,634,QA,QAT,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Saudi Arabia,682,SA,SAU,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,State of Palestine,275,PS,PSE,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Syrian Arab Republic,760,SY,SYR,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Turkey,792,TR,TUR,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,United Arab Emirates,784,AE,ARE,,,,Developing
+1,World,m49:142.0,Asia,m49:145.0,Western Asia,m49:,,Yemen,887,YE,YEM,x,,,Developing
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Belarus,112,BY,BLR,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Bulgaria,100,BG,BGR,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Czechia,203,CZ,CZE,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Hungary,348,HU,HUN,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Poland,616,PL,POL,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Republic of Moldova,498,MD,MDA,,x,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Romania,642,RO,ROU,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Russian Federation,643,RU,RUS,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Slovakia,703,SK,SVK,,,,Developed
+1,World,m49:150.0,Europe,m49:151.0,Eastern Europe,m49:,,Ukraine,804,UA,UKR,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Åland Islands,248,AX,ALA,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:830.0,Channel Islands,Guernsey,831,GG,GGY,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:830.0,Channel Islands,Jersey,832,JE,JEY,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:830.0,Channel Islands,Sark,680,,,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Denmark,208,DK,DNK,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Estonia,233,EE,EST,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Faroe Islands,234,FO,FRO,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Finland,246,FI,FIN,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Iceland,352,IS,ISL,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Ireland,372,IE,IRL,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Isle of Man,833,IM,IMN,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Latvia,428,LV,LVA,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Lithuania,440,LT,LTU,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Norway,578,NO,NOR,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Svalbard and Jan Mayen Islands,744,SJ,SJM,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,Sweden,752,SE,SWE,,,,Developed
+1,World,m49:150.0,Europe,m49:154.0,Northern Europe,m49:,,United Kingdom of Great Britain and Northern Ireland,826,GB,GBR,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Albania,8,AL,ALB,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Andorra,20,AD,AND,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Bosnia and Herzegovina,70,BA,BIH,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Croatia,191,HR,HRV,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Gibraltar,292,GI,GIB,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Greece,300,GR,GRC,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Holy See,336,VA,VAT,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Italy,380,IT,ITA,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Malta,470,MT,MLT,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Montenegro,499,ME,MNE,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,North Macedonia,807,MK,MKD,,x,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Portugal,620,PT,PRT,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,San Marino,674,SM,SMR,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Serbia,688,RS,SRB,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Slovenia,705,SI,SVN,,,,Developed
+1,World,m49:150.0,Europe,m49:39.0,Southern Europe,m49:,,Spain,724,ES,ESP,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Austria,40,AT,AUT,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Belgium,56,BE,BEL,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,France,250,FR,FRA,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Germany,276,DE,DEU,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Liechtenstein,438,LI,LIE,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Luxembourg,442,LU,LUX,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Monaco,492,MC,MCO,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Netherlands,528,NL,NLD,,,,Developed
+1,World,m49:150.0,Europe,m49:155.0,Western Europe,m49:,,Switzerland,756,CH,CHE,,,,Developed
+1,World,m49:9.0,Oceania,m49:53.0,Australia and New Zealand,m49:,,Australia,36,AU,AUS,,,,Developed
+1,World,m49:9.0,Oceania,m49:53.0,Australia and New Zealand,m49:,,Christmas Island,162,CX,CXR,,,,Developed
+1,World,m49:9.0,Oceania,m49:53.0,Australia and New Zealand,m49:,,Cocos (Keeling) Islands,166,CC,CCK,,,,Developed
+1,World,m49:9.0,Oceania,m49:53.0,Australia and New Zealand,m49:,,Heard Island and McDonald Islands,334,HM,HMD,,,,Developed
+1,World,m49:9.0,Oceania,m49:53.0,Australia and New Zealand,m49:,,New Zealand,554,NZ,NZL,,,,Developed
+1,World,m49:9.0,Oceania,m49:53.0,Australia and New Zealand,m49:,,Norfolk Island,574,NF,NFK,,,,Developed
+1,World,m49:9.0,Oceania,m49:54.0,Melanesia,m49:,,Fiji,242,FJ,FJI,,,x,Developing
+1,World,m49:9.0,Oceania,m49:54.0,Melanesia,m49:,,New Caledonia,540,NC,NCL,,,x,Developing
+1,World,m49:9.0,Oceania,m49:54.0,Melanesia,m49:,,Papua New Guinea,598,PG,PNG,,,x,Developing
+1,World,m49:9.0,Oceania,m49:54.0,Melanesia,m49:,,Solomon Islands,90,SB,SLB,x,,x,Developing
+1,World,m49:9.0,Oceania,m49:54.0,Melanesia,m49:,,Vanuatu,548,VU,VUT,x,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,Guam,316,GU,GUM,,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,Kiribati,296,KI,KIR,x,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,Marshall Islands,584,MH,MHL,,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,Micronesia (Federated States of),583,FM,FSM,,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,Nauru,520,NR,NRU,,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,Northern Mariana Islands,580,MP,MNP,,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,Palau,585,PW,PLW,,,x,Developing
+1,World,m49:9.0,Oceania,m49:57.0,Micronesia,m49:,,United States Minor Outlying Islands,581,UM,UMI,,,,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,American Samoa,16,AS,ASM,,,x,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Cook Islands,184,CK,COK,,,x,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,French Polynesia,258,PF,PYF,,,x,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Niue,570,NU,NIU,,,x,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Pitcairn,612,PN,PCN,,,,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Samoa,882,WS,WSM,,,x,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Tokelau,772,TK,TKL,,,,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Tonga,776,TO,TON,,,x,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Tuvalu,798,TV,TUV,x,,x,Developing
+1,World,m49:9.0,Oceania,m49:61.0,Polynesia,m49:,,Wallis and Futuna Islands,876,WF,WLF,,,,Developing
