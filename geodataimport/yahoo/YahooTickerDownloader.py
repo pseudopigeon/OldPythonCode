@@ -1,4 +1,3 @@
-#!/home/dundy/PycharmProjects/edgar/venv/bin/python
 
 import pickle
 from time import sleep
